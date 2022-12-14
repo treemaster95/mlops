@@ -1,4 +1,4 @@
-# ML Ops with GitHub Actions and Azure Machine Learning
+# ML Ops with GitHub Actions and Azure Machine Learning - 14th December 2022
 
 <p align="center">
   <img src="docs/images/aml.svg" height="80"/>
